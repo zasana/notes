@@ -4,7 +4,9 @@
 * https://www.producttalk.org/2019/10/managing-outcomes/
 * https://stackoverflow.blog/2019/10/09/lessons-from-design-school-for-software-engineers/
 * https://medium.com/@jproco/how-to-know-if-your-minimum-viable-product-is-actually-viable-9e6e7f620042
-* https://towardsdatascience.com/seven-steps-to-set-goals-and-pick-metrics-for-customers-613283570521
+
+# ROI
+* https://www.nngroup.com/articles/calculating-roi-design-projects/
 
 # Gaining Feedback
 * https://zapier.com/learn/customer-support/collect-customer-feedback/
@@ -16,3 +18,4 @@
 
 # Data
 * https://www.linkedin.com/feed/update/urn:li:activity:6551510989953695744
+* https://towardsdatascience.com/seven-steps-to-set-goals-and-pick-metrics-for-customers-613283570521
